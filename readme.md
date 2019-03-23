@@ -9,3 +9,4 @@ Structural patterns are about how classes are designed and composed to create bi
 * Composite
 * Decorator
 * Facade
+* Flyweight
