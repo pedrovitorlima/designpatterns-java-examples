@@ -4,7 +4,7 @@ import br.pedro.designpatterns.structural.bridge.imp.LoggerError;
 import br.pedro.designpatterns.structural.bridge.imp.SimpleAccount;
 
 /**
- * Intent: Decouple an abstraction from its implementation so that the two
+ * Intent: Decouple an abstraction from its implementation both
  * can vary independently. Bridge pattern uses DI.
  * Applicability: In S[O]LID implementations. To a class be compliance with open/close principle,
  * we need to decouple the implementation of dependencies inside another class.
